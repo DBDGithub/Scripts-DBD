@@ -1,0 +1,16 @@
+$nomention
+$onlyIf[$mentioned[1]!=;**❌ | Mencione um usuário válido!**]
+$onlyPerms[ban;**❌ | Você não tem a permissão necessária para utilizar este comando**]
+$onlyBotPerms[ban;**❌ | Eu não tenho a permissão de `banir membros`!**]
+$ban[]
+$title[🔨 | Ban]
+$description[
+**🔨 Moderador:**
+<@$authorID>
+
+**👤 Usuário:**
+`$username[$mentioned[1]]`
+
+**📋 Motivo:**
+$replaceText[$message;;Não Especificado;-1]]
+$color[#0000FF]
