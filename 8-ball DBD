@@ -1,0 +1,11 @@
+$nomention
+$title[8-Ball]
+$description[
+**❓ | Pergunta:**
+$message
+
+**📝 | Resposta:**
+$randomText[sim;não;talvez;provavelmente;quem sabe]]
+$color[#0000FF]
+$footer[Solicitado por: $username]
+$footerIcon[$authorAvatar]
