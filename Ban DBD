@@ -12,5 +12,5 @@ $description[
 `$username[$mentioned[1]]`
 
 **📋 Motivo:**
-$replaceText[$message;;Não Especificado;-1]]
+$noMentionMessage]
 $color[#0000FF]
