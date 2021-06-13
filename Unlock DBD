@@ -1,0 +1,9 @@
+$nomention
+$modifyChannelPerms[$channelID;+sendmessages;$guildID]
+$onlyPerms[managechannels;**❌ | Você não tem a permissão necessária para utilizar este comando**]
+$onlyBotPerms[managechannels;**❌ | Ei preciso da permissão de `gerenciar canal` para executar este comando!**]
+$description[
+**<:emoji_5:852329321350955048> | O canal <#$channelID> Foi destrancado! Caso queira trancar use `tl.lock`**]
+$color[82C1FF]
+$footer[Executado por: $username]
+$footerIcon[$authorAvatar]
