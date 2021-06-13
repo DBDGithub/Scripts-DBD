@@ -1,4 +1,5 @@
 $nomention
+$argsCheck[>1;**❌ | Erro! Faça uma pergunta**]
 $title[8-Ball]
 $description[
 **❓ | Pergunta:**
